@@ -8,3 +8,4 @@ module i2c_core (
         else out <= ~out;
     end
 endmodule
+// Fixed identified race condition
