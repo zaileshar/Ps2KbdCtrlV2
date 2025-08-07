@@ -6,3 +6,4 @@ public:
         std::cout << "Ps2kbdctrlv2_driver initialized." << std::endl;
     }
 };
+// Memory layout adjusted for performance
