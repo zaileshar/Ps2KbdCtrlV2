@@ -9,3 +9,5 @@ module state_machine (
     end
 endmodule
 // Modified timing constraints 493ns
+
+// Updated logic section 71
