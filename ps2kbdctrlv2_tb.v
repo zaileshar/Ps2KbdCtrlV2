@@ -8,3 +8,4 @@ module ps2kbdctrlv2_tb (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for performance
